@@ -1,6 +1,6 @@
 cask "heyski" do
-  version "0.5.0"
-  sha256 "6831ee020db98122cb645dd751a823ba1196c927202393ae1cc71e418589349d"
+  version "0.5.1"
+  sha256 "ca6307549d05dce2f4a0ae100e4f38df761abc118b1e6da38f75244d8ac30b3d"
 
   url "https://github.com/megamanics/heyski/releases/download/v#{version}/HeySKi-v#{version}-universal.zip"
   name "heyski"
